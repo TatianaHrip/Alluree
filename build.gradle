@@ -28,7 +28,7 @@ dependencies {
     testRuntimeOnly 'org.slf4j:slf4j-simple:1.7.30'
     testImplementation 'com.github.javafaker:javafaker:1.0.2'
     testImplementation 'io.qameta.allure:allure-selenide:2.13.9'
-
+    testImplementation'io.qameta.allure:allure-selenide:2.13.0'
     compileOnly 'org.projectlombok:lombok:1.18.18'
     annotationProcessor 'org.projectlombok:lombok:1.18.18'
     testCompileOnly 'org.projectlombok:lombok:1.18.18'
